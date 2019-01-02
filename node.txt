@@ -1,5 +1,4 @@
 # 节点列表
 
-#AZURE SP
-
+# AZURE SP
 ssr://NTIuMTYzLjg3LjEzMDo0NDM6YXV0aF9hZXMxMjhfbWQ1OmFlcy0xMjgtY3RyOnRsczEuMl90aWNrZXRfYXV0aDpiV2x6WVd0aA
